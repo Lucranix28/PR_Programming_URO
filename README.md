@@ -5,4 +5,7 @@
 - 16018162 Muhammad Rizqi 
 - 16918204 Achmad Syahrul Irwansyah
 
-Strateginya main-main bot biar mau pergi ke pods dan menang, hore...
+## Strategi Bot
+- Bot bergerak menuju zona lain atau yang bukan miliknya secara terus-menerus (looping)
+- Apabila zona yang ditargetkan sudah terkena, maka bot tersebut akan menuju zona lainnnya secara random untuk memperluas wilayah (range)
+- Bot akan mencari zona lain yang bukan zona temannya, atau dengan kata lain, bot mencari zona menghindari temannya sendiri
